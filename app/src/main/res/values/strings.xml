@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CiriPilot</string>
+    <string name="send">Send</string>
+    <string name="message">Message</string>
+    <string name="_192_168_1">192.168.1.</string>
+    <string name="_0">0</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="refresh">refresh</string>
+</resources>
